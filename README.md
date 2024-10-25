@@ -18,3 +18,9 @@ Repositório para compartilhar as notas de estudo e arquivo python do tutorial o
    ```
    
 3. renomear ".env.exemplo" para ".env" e cadastrar a chave API do provedor do modelo LLM.
+
+Observação: algumas notas foram criadas usando o excalidraw para estes, sugiro que sejam abertos no site da empresa https://excalidraw.com , ou vocês podem baixar o [obsidian](https://obsidian.md), que é gratuito, e instalar a extensão.
+
+Qualquer duvida me avisem pessoal.
+
+abraços.
